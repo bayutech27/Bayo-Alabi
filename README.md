@@ -60,7 +60,7 @@ Clone the repository:
 Bash
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/bayutech27/MiniSoft-Pad
 
 
 
@@ -85,7 +85,7 @@ Contact
 I'm always open to connecting and discussing new opportunities. Feel free to reach out!
 
 •
-LinkedIn: Bayo Alabi
+LinkedIn: bayo-alabi
 
 •
 Email: bayutech27@gmail.com
